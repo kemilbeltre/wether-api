@@ -14,7 +14,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
     val CITY: String = "london"
-    val API: String = "5db24ab69aacce2985ac78aa5be6498b" // Use your own API key
+    val API: String = "***********************" // Use your own API key
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
